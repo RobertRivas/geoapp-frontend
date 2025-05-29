@@ -23,3 +23,4 @@ export const fetchPoints = async (): Promise<FeatureCollection> => {
   }
 };
 
+
